@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fapar\\source\\repos\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA9B0E-EB01-4B7B-BF62-A6E7346629FB}|BlazorServer\\BlazorServer.csproj|c:\\users\\fapar\\source\\repos\\demo\\blazorserver\\components\\pages\\blprueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCA9B0E-EB01-4B7B-BF62-A6E7346629FB}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\components\\pages\\blprueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlPrueba.razor",
+              "DocumentMoniker": "C:\\Users\\fapar\\source\\repos\\Demo\\BlazorServer\\Components\\Pages\\BlPrueba.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\Components\\Pages\\BlPrueba.razor",
+              "ToolTip": "C:\\Users\\fapar\\source\\repos\\Demo\\BlazorServer\\Components\\Pages\\BlPrueba.razor",
+              "RelativeToolTip": "BlazorServer\\Components\\Pages\\BlPrueba.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T00:12:45.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
